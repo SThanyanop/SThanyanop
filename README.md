@@ -50,4 +50,4 @@ I specialize in engineering vision-based systems, from tracking sub-pixel ground
 ### 📬 Connect with Me
 * **Email:** sriw.thanyanop@gmail.com
 * **Phone:** (+66) 96-953-8719
-* **Location:** Chonburi, Thailand
+* **Location:** Bangkok, Thailand
