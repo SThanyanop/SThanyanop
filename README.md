@@ -22,7 +22,7 @@ I specialize in engineering vision-based systems, from tracking sub-pixel ground
 
 ### 📂 Highlighted Projects (Note some of them were not develop on github)
 
-#### 🛰️ **Landslide Displacement Detection System**
+#### 🛰️ **Landslide Displacement Detection System** (1st prototype version, on going study)
 *Developed a high-precision pipeline to monitor environmental risks.*
 * **The Tech:** Python, OpenCV, SIFT, RANSAC, and Optical Flow.
 * **The Result:** Engineered a pipeline to detect **sub-pixel movements** across varying drone altitudes and angles.
